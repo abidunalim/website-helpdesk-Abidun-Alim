@@ -152,5 +152,8 @@
     "stylelint-config-twbs-bootstrap": "^2.2.4",
     "terser": "^5.10.0",
     "vnu-jar": "^21.10.12"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
